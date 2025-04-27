@@ -1,6 +1,6 @@
 🌱 Plantinfo
 Plantinfo adalah aplikasi berbasis web sederhana yang membantu pengguna menentukan tanaman yang sesuai dengan lingkungan mereka.
-Aplikasi ini dibuat sebagai bagian dari tugas Sistem Pendukung Keputusan (SPK).
+Aplikasi ini dibuat sebagai bagian dari tugas Sistem Pengambilan Keputusan (SPK).
 
 📋 Fitur
 Menentukan tanaman berdasarkan lingkungan pengguna
